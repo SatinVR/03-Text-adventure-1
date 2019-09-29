@@ -1,0 +1,37 @@
+Name: Alex Ruanto
+Date: 9/28/2019
+Project: Text adventure
+Peer's repository: https://github.com/cheddarhd/03-Text-adventure
+
+
+
+What is something you learned by reviewing your peer's project?
+How to better format a readme file
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+Readme formating
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+Their is no edited json file for a custom text game for the main_simple. Make sure to edit the game.json to make a game using the engine code from either main.py or main_simple.py.
+ 
+
+What could have been clearer or better commented?
+Function main in main_simple.py could use better commenting on what it is doing.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+Nohing confusing.
+
+
+Does the repository contain an appropriate LICENSE?
+Yes.
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+In what way main.py is more complicated.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+You have good and clear formatting
